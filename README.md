@@ -1,1 +1,2 @@
-Multithreading Projects/Tinkerings
+## Multithreading Projects
+Includes thread safe queue, and reader writer lock. In the future, will also add multithreaded TCP Client/Server
